@@ -7,3 +7,6 @@
 
 # YAML
 *.yml linguist-detectable=true
+
+
+.idea/*
