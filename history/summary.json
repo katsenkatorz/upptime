@@ -78,19 +78,19 @@
     "url": "https://developer.laposte.fr",
     "icon": "https://icons.duckduckgo.com/ip3/developer.laposte.fr.ico",
     "slug": "okapi",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1107,
-    "timeDay": 1155,
-    "timeWeek": 974,
-    "timeMonth": 1039,
-    "timeYear": 1107,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 1113,
+    "timeDay": 1315,
+    "timeWeek": 1036,
+    "timeMonth": 1052,
+    "timeYear": 1113,
     "dailyMinutesDown": {
-      "2023-10-02": 0
+      "2023-10-02": 8
     }
   }
 ]
