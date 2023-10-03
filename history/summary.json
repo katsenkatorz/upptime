@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 117,
-    "timeDay": 372,
-    "timeWeek": 122,
+    "time": 116,
+    "timeDay": 96,
+    "timeWeek": 123,
     "timeMonth": 128,
-    "timeYear": 117,
+    "timeYear": 116,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 210,
-    "timeDay": 287,
-    "timeWeek": 317,
-    "timeMonth": 235,
+    "timeDay": 197,
+    "timeWeek": 291,
+    "timeMonth": 237,
     "timeYear": 210,
     "dailyMinutesDown": {}
   },
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 288,
-    "timeDay": 290,
-    "timeWeek": 334,
-    "timeMonth": 283,
-    "timeYear": 288,
+    "time": 290,
+    "timeDay": 395,
+    "timeWeek": 330,
+    "timeMonth": 287,
+    "timeYear": 290,
     "dailyMinutesDown": {
       "2023-09-13": 20
     }
@@ -79,18 +79,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/developer.laposte.fr.ico",
     "slug": "okapi",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 1113,
-    "timeDay": 1315,
-    "timeWeek": 1036,
-    "timeMonth": 1052,
-    "timeYear": 1113,
-    "dailyMinutesDown": {
-      "2023-10-02": 8
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1110,
+    "timeDay": 1194,
+    "timeWeek": 1046,
+    "timeMonth": 1045,
+    "timeYear": 1110,
+    "dailyMinutesDown": {}
   }
 ]
