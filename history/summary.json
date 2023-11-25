@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 104,
-    "timeDay": 124,
-    "timeWeek": 92,
-    "timeMonth": 88,
+    "timeDay": 84,
+    "timeWeek": 80,
+    "timeMonth": 87,
     "timeYear": 104,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 200,
-    "timeDay": 271,
-    "timeWeek": 206,
+    "time": 199,
+    "timeDay": 138,
+    "timeWeek": 216,
     "timeMonth": 192,
-    "timeYear": 200,
+    "timeYear": 199,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 298,
-    "timeDay": 154,
-    "timeWeek": 296,
-    "timeMonth": 303,
-    "timeYear": 298,
+    "time": 296,
+    "timeDay": 93,
+    "timeWeek": 270,
+    "timeMonth": 302,
+    "timeYear": 296,
     "dailyMinutesDown": {
       "2023-09-13": 20
     }
@@ -80,15 +80,15 @@
     "slug": "okapi",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.84%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 1124,
-    "timeDay": 3743,
-    "timeWeek": 1834,
-    "timeMonth": 1228,
-    "timeYear": 1124,
+    "time": 1126,
+    "timeDay": 1345,
+    "timeWeek": 1828,
+    "timeMonth": 1233,
+    "timeYear": 1126,
     "dailyMinutesDown": {
       "2023-11-23": 17
     }
